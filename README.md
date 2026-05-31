@@ -17,6 +17,6 @@ Currently learning:
 
 Projects:
 
-- Kora (AI-powered fitness planning concept)
-- Analytics Sandbox
+- Kora – AI-powered class planning concept (HTML/CSS/JavaScript, Netlify)
+- Analytics Sandbox – learning product analytics, event tracking, and instrumentation
 - Independent AI research projects
