@@ -1,22 +1,23 @@
 # Hi, I'm Yasmin 👋
 
-Sales & Customer Success professional interested in:
+SaaS professional interested in:
 
-- Product Analytics
-- Customer Experience
-- AI Systems
-- Technical Troubleshooting
-- Product Adoption
+* Product Analytics
+* AI Systems
+* Customer Experience
+* Technical Troubleshooting
+* Product Adoption
 
-Currently learning:
+## Currently Learning
 
-- SQL
-- Product Analytics
-- GitHub workflows
-- Front-end development
+* SQL & Data Analysis
+* Product Analytics (PostHog)
+* AI Systems & Integrations
+* GitHub Workflows
+* Front-End Development
 
-Projects:
+## Projects
 
-- Kora – AI-powered class planning concept (HTML/CSS/JavaScript, Netlify)
-- Analytics Sandbox – learning product analytics, event tracking, and instrumentation
-- Independent AI research projects
+* UFC Fight Predictor (Pick'em Labs) — AI-powered fight analysis and betting insights tool (Next.js, APIs, AI integrations, sports analytics)
+* Kora — AI-powered yoga class planning concept (HTML/CSS/JavaScript, Netlify)
+* Independent AI research projects (LLMs, prompt engineering, AI workflows)
